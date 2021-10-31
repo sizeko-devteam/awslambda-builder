@@ -2,7 +2,9 @@
   "name": "@sizeko/awslambda-builder",
   "version": "0.1.0",
   "main": "index.js",
-  "authors": ["sizeko.devteam <sizeko.devteam@gmail.com>"],
+  "authors": [
+    "sizeko.devteam <sizeko.devteam@gmail.com>"
+  ],
   "license": "ISC",
   "description": "node package for lambda functions to consist serverless backend on aws",
   "scripts": {},
