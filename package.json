@@ -1,0 +1,9 @@
+{
+  "name": "@sizeko/awslambda-builder",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "authors": ["sizeko.devteam <sizeko.devteam@gmail.com>"],
+  "license": "ISC",
+  "description": ""
+}
