@@ -2,8 +2,12 @@
   "name": "@sizeko/awslambda-builder",
   "version": "0.0.1",
   "main": "index.js",
-  "scripts": {},
   "authors": ["sizeko.devteam <sizeko.devteam@gmail.com>"],
   "license": "ISC",
-  "description": ""
+  "description": "node package for lambda functions to consist serverless backend on aws",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
